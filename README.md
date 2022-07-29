@@ -1,7 +1,6 @@
-Full-Stack Web Developer
-
+I'm **Full-Stack Web Developer**
+<br>
 Java, Kotlin, JavaScripts, PHP, Python and etc...
-
 
 Team XpressEngine, NeoguriNest
 
